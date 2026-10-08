@@ -300,7 +300,7 @@ Make sure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-enterprise-assistant.git
+git clone https://github.com/adiprabujayanegara01/ai-enterprise-assistant.git
 cd ai-enterprise-assistant
 ```
 
