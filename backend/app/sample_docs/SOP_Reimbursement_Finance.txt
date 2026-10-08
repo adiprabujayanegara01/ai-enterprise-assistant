@@ -1,0 +1,22 @@
+SOP REIMBURSEMENT BIAYA OPERASIONAL
+Nomor Dokumen: SOP-FIN-007 | Versi 3.2 | Departemen Finance
+
+1. TUJUAN DAN RUANG LINGKUP
+SOP ini mengatur pengajuan penggantian biaya (reimbursement) atas pengeluaran operasional yang dikeluarkan karyawan untuk kepentingan perusahaan, seperti transportasi dinas, akomodasi, konsumsi rapat, dan pembelian perlengkapan kerja mendesak.
+
+2. KETENTUAN UMUM
+Pengajuan reimbursement wajib dilakukan paling lambat 14 hari kalender setelah tanggal transaksi. Pengajuan yang melewati batas waktu hanya dapat diproses dengan persetujuan tertulis Direktur Keuangan.
+Setiap pengajuan harus dilampiri bukti pembayaran asli berupa struk, kuitansi, atau invoice yang mencantumkan nama vendor, tanggal, dan nominal.
+--- Halaman 2 ---
+3. PROSEDUR PENGAJUAN
+Langkah 1: Karyawan mengisi formulir reimbursement pada portal HR-Finance dan mengunggah foto atau pindaian bukti pembayaran.
+Langkah 2: Atasan langsung melakukan persetujuan tahap pertama maksimal 3 hari kerja.
+Langkah 3: Tim Finance memverifikasi kelengkapan dokumen dan kesesuaian dengan kebijakan maksimal 5 hari kerja.
+Langkah 4: Dana ditransfer ke rekening gaji karyawan pada jadwal pembayaran mingguan setiap hari Jumat.
+
+4. BATAS NOMINAL DAN PERSETUJUAN
+Pengajuan hingga Rp1.000.000 disetujui oleh atasan langsung. Pengajuan Rp1.000.001 sampai Rp10.000.000 memerlukan persetujuan Manager Departemen. Pengajuan di atas Rp10.000.000 memerlukan persetujuan Direktur Keuangan.
+Uang makan perjalanan dinas dibatasi Rp150.000 per hari dan akomodasi hotel dibatasi Rp900.000 per malam untuk kota besar.
+
+5. PENOLAKAN
+Pengajuan ditolak apabila bukti tidak lengkap, pengeluaran bersifat pribadi, atau melebihi batas kebijakan tanpa persetujuan khusus. Karyawan dapat mengajukan ulang satu kali setelah melengkapi dokumen.

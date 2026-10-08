@@ -1,0 +1,18 @@
+LAPORAN OPERASIONAL BULANAN
+Periode: Agustus - September 2026 | Divisi Operasional & Supply Chain | Klasifikasi: Internal Manager
+
+1. RINGKASAN EKSEKUTIF
+Pada September 2026 perusahaan mengalami penurunan penjualan dibanding Agustus. Penurunan terutama dipengaruhi oleh gangguan distribusi di wilayah Jawa Timur dan keterlambatan pasokan kategori Elektronik dari pemasok utama.
+--- Halaman 2 ---
+2. GANGGUAN DISTRIBUSI CABANG SURABAYA
+Pada tanggal 15 sampai 19 September 2026 banjir besar di jalur pantura menyebabkan pengiriman barang ke cabang Surabaya terhambat. Rata-rata keterlambatan pengiriman mencapai 6 hari dan beberapa toko beroperasi dengan stok terbatas. Volume transaksi harian cabang Surabaya turun hingga lebih dari 50 persen selama periode tersebut.
+Tim logistik mengalihkan sebagian pengiriman melalui jalur laut pada minggu ketiga September, namun pemulihan stok baru selesai pada akhir bulan.
+
+3. KETERLAMBATAN PASOKAN ELEKTRONIK
+Pemasok utama laptop dan smartphone mengalami kendala produksi sehingga pengiriman batch September tertunda 2 minggu. Akibatnya ketersediaan produk kategori Elektronik di seluruh cabang berkurang dan banyak pesanan pelanggan tertunda atau dibatalkan.
+--- Halaman 3 ---
+4. REKOMENDASI
+a. Tambahkan pemasok alternatif untuk kategori Elektronik agar tidak bergantung pada satu vendor.
+b. Bangun stok penyangga (buffer stock) 10 hari di gudang regional Jawa Timur.
+c. Siapkan rencana kontingensi jalur pengiriman alternatif untuk musim hujan Oktober sampai Desember.
+d. Lakukan promosi pemulihan penjualan pada cabang Surabaya selama Oktober 2026.
